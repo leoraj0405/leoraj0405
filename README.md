@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
-<h3 align="center">Full Stack Developer building clean, practical web apps</h3>
+<h3 align="center">Full Stack Engineer building clean, practical web apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7B733&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Node.js+%7C+Express+%7C+NestJS+%7C+React;MySQL+MongoDB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7B733&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;Node.js+%7C+Express+%7C+NestJS+%7C+React;MySQL+MongoDB" alt="Typing SVG" />
 </p>
 
 <p align="center">
