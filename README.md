@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋, I'm Leo
 
-<!--
-**leoraj0405/leoraj0405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer
 
-Here are some ideas to get you started:
+🌱 Currently learning:
+- Node.js
+- NestJS
+- React
+- TypeScript
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+Frontend
+- React
+- Next.js
+- HTML
+- CSS
+- Bootstrap
+
+Backend
+- Node.js
+- Express
+- NestJS
+
+Database
+- MongoDB
+- MySQL
+
+Tools
+- Git
+- GitHub
+- Postman
+- VS Code
+
+## Featured Projects
+
+### Expense Tracker
+- Split expenses equally/unequally
+- Charts
+- Authentication
+- NestJS + React + MySQL
+
+### Hostel Attendance System
+- Attendance management
+- Student management
+- Express + MySQL
