@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer building clean, practical web apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7B733&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Node.js+%7C+NestJS+%7C+React;Currently+learning+TypeScript+%26+MySQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7B733&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Node.js+%7C+Express+%7C+NestJS+%7C+React;MySQL+MongoDB" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,10 +14,9 @@
 
 ---
 
-### 🌱 Currently Learning
-
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
